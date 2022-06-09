@@ -13,12 +13,26 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![java](https://user-images.githubusercontent.com/34954756/172559282-d89c096e-1380-4622-a04f-c2a19418f2e5.png)
-![node-js](https://user-images.githubusercontent.com/34954756/172565689-6374af4c-7fa5-4110-8481-2088914626f1.png)
 
 ![ct](https://user-images.githubusercontent.com/34954756/172553577-11862262-fefb-4014-9548-59a1fbb7ad66.png)
 ![ttt](https://user-images.githubusercontent.com/34954756/172553581-5bb8cb76-3dfe-4803-a2ae-ba3c3c4ac4b8.png)
 ![fmw](https://user-images.githubusercontent.com/34954756/172556263-e7e38c23-d13f-4a7d-a091-4934eff3dd4a.png)
+
+
+![android](https://user-images.githubusercontent.com/34954756/172776148-ad374af6-75bc-47d8-9695-c916de73a3a1.svg)
+![firebase](https://user-images.githubusercontent.com/34954756/172776156-f7cce7d7-e003-4939-874d-f384a4a1c914.svg)
+![java](https://user-images.githubusercontent.com/34954756/172776160-0520a85a-b227-4900-bd2c-9d03cd3aa793.svg)
+![javascript](https://user-images.githubusercontent.com/34954756/172776164-8d5add02-cdc5-475a-9c31-2e30e1364f92.svg)
+![node](https://user-images.githubusercontent.com/34954756/172776168-78aa3ce3-4cec-4fcb-a82d-c6dcb3b2f381.svg)
+![react](https://user-images.githubusercontent.com/34954756/172776171-60894932-6ece-422c-982c-82c02adcdcac.svg)
+![typescript](https://user-images.githubusercontent.com/34954756/172776172-d8128b2b-4646-45ba-b2c7-26dd48d2d5dd.svg)
+![c#](https://user-images.githubusercontent.com/34954756/172776847-ea502fdf-d627-475e-9c24-18d626935b5a.svg)
+![sql](https://user-images.githubusercontent.com/34954756/172776851-16d23b9e-f0e2-4032-9547-8b3fc0c775d4.svg)
+![mongo](https://user-images.githubusercontent.com/34954756/172778410-76bdf4a5-b5f5-4ac5-8764-468e79da706d.png)
+![photoshop](https://user-images.githubusercontent.com/34954756/172778960-9d8d81e6-d143-4a2c-aabe-25bbef10916b.png)
+
+![sql](https://user-images.githubusercontent.com/34954756/172779365-b922297c-fdf2-4939-aa19-a4b7a0c6a81d.png)
+![c#](https://user-images.githubusercontent.com/34954756/172794017-4fbfafd8-d9ba-477a-b67e-33cbde7db488.png)
 
 -->
 
@@ -36,39 +50,46 @@ Here are some ideas to get you started:
 <br>
  
  
- ### 🔨 Languages and Tools:
-<img align="left" src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" alt="C#" height="44px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="42px"/>
-<img align="left" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TypeScript" height="42px"/>
-<img align="left" src="https://seeklogo.com/images/A/android-logo-9E4539A7DE-seeklogo.com.png" alt="Android" height="42px"/>
-<img align="left" src="https://user-images.githubusercontent.com/34954756/172559282-d89c096e-1380-4622-a04f-c2a19418f2e5.png" alt="Java" height="40px"/>
-<!--<img align="left" src="https://w7.pngwing.com/pngs/286/519/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure.png" alt="SQL" height="42px"/>-->
-<img align="left" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="42px"/>
-<img align="left" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Firebase" height="42px"/>
-<img align="left" src="https://user-images.githubusercontent.com/34954756/172565689-6374af4c-7fa5-4110-8481-2088914626f1.png" alt="Node" height="42px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React" height="42px"/>
-<img align="left" src="https://seeklogo.com/images/P/photoshop-2020-logo-37B02055A4-seeklogo.com.png" alt="PhotoShop" height="42px"/>
+ ## 🔨 Languages and Tools:
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172794017-4fbfafd8-d9ba-477a-b67e-33cbde7db488.png" alt="C#" height="45px"/></a>
+  
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776164-8d5add02-cdc5-475a-9c31-2e30e1364f92.svg" alt="JavaScript" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776172-d8128b2b-4646-45ba-b2c7-26dd48d2d5dd.svg" alt="TypeScript" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776148-ad374af6-75bc-47d8-9695-c916de73a3a1.svg" alt="Android" height="42px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776160-0520a85a-b227-4900-bd2c-9d03cd3aa793.svg" alt="Java" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172779365-b922297c-fdf2-4939-aa19-a4b7a0c6a81d.png" alt="SQL" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172778410-76bdf4a5-b5f5-4ac5-8764-468e79da706d.png" alt="MongoDB" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776156-f7cce7d7-e003-4939-874d-f384a4a1c914.svg" alt="Firebase" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776168-78aa3ce3-4cec-4fcb-a82d-c6dcb3b2f381.svg" alt="Node" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" src="https://user-images.githubusercontent.com/34954756/172776171-60894932-6ece-422c-982c-82c02adcdcac.svg" alt="React" height="45px"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://user-images.githubusercontent.com/34954756/172778960-9d8d81e6-d143-4a2c-aabe-25bbef10916b.png" alt="PhotoShop" height="45px"/></a>
+ <br />
+ <br />
+ 
+ ###  🎯💡 In the near Future, I plan to..
+  - Make website that converts files, images, audio, video and all other posible conversions.
+  - fully fledged Hospital Management website using MERN stack.
+<br>
 
 
+## 📊 Github Stats
+![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad-23&show_icons=true&theme=radical)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-23&layout=compact)](https://github.com/harshad-23/github-readme-stats)-->
 <br>
 <br>
-<br>
-<br>
+
 
 ## 🛠️ My Recent Projects
-
-
+<div align="center"> 
 <a href="https://dailyshortnews.herokuapp.com" target="_blank"> <img alt="Daily Short News" src="https://dailyshortnews.herokuapp.com/static/media/logo_shortnews7.5622127f.png" height="70" align="left"> </a>
 
 <a href="https://watch-my-crypto.netlify.app/" target="_blank"> <img alt="Crypto Tracker" src="https://user-images.githubusercontent.com/34954756/172553577-11862262-fefb-4014-9548-59a1fbb7ad66.png" height="70" align="left"> </a>
 
 <a href="https://findmyword.netlify.app/" target="_blank"> <img alt="Find My Word" src="https://user-images.githubusercontent.com/34954756/172556263-e7e38c23-d13f-4a7d-a091-4934eff3dd4a.png" height="70" align="left"> </a>
 
-<a href="https://harshad-23.github.io/tic-tac-toe/" target="_blank"> <img alt="Tic Tac Toe" src="https://user-images.githubusercontent.com/34954756/172553581-5bb8cb76-3dfe-4803-a2ae-ba3c3c4ac4b8.png" height="70" align="left"> </a>
-<br />
-<br />
-<br />
-<br />
-### 🎯💡 In the near Future, I plan to..
-- Make website that converts files, images, audio, video and all other posible conversions.
-- fully fledged Hospital Management website using MERN stack.
+<a href="https://harshad-23.github.io/tic-tac-toe/" target="_blank"> <img alt="Tic Tac Toe" src="https://user-images.githubusercontent.com/34954756/172553581-5bb8cb76-3dfe-4803-a2ae-ba3c3c4ac4b8.png" height="70" align="left"> </a><br>
+</div>
+
+
+
+
