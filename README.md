@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 
 
 ## 📊 Github Stats
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad-23&show_icons=true&count_private=true&theme=radical)
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-23&layout=compact)](https://github.com/harshad-23/github-readme-stats)-->
+![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshad-23&show_icons=true&count_private=true&theme=radical)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshad-23&layout=compact)](https://github.com/harshad-23/github-readme-stats)
 <br>
 <br>
 
